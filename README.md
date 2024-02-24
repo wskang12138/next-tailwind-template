@@ -11,6 +11,3 @@
 * 默认提供 `blueprint` 的 `page` 和 `component` 模板（需 `vscode` 安装 `blueprint` 插件）
 * 默认配置 `eslint+prettier+husky+stylelint+lint-staged+prettier-plugin-tailwindcss`，提供规范化的开发体验
 * 默认开启 `scss` 作为 `tailwind` 的补充
-
-# 范例
-https://funny-longma-b1c6b2.netlify.app
